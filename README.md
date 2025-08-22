@@ -3,23 +3,6 @@
 
 A project focused on extracting insights and summarizing academic research papers using **RAG (Retrieval-Augmented Generation)** and **LLMs**. This repository contains sample PDFs of research papers along with notebooks demonstrating different approaches for automated summarization and analysis.
 
-## 📂 Repository Structure
-
-
-Research-Paper-Insights/
-│
-├─ samples/ # Sample research paper PDFs
-│ ├─ paper1.pdf
-│ ├─ paper2.pdf
-│ └─ ...
-│
-├─ notebooks/
-│ ├─ RAG_with_Ollama.ipynb # Notebook using Ollama for RAG-based summarization
-│ ├─ LLM_Collab_GPT2.ipynb # Notebook using GPT-2 on Colab for summarization
-│
-└─ README.md
-
-
 ## 🛠 Notebooks Overview
 
 ### 1. RAG_with_Ollama.ipynb
